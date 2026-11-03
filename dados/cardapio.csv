@@ -1,0 +1,20 @@
+id;tipo;nome;foto;preferencias
+1;PRATO;Frango grelhado com arroz integral;frango-grelhado.jpg;1|3
+2;PRATO;Carne moída com purê de batata;carne-moida.jpg;1
+3;PRATO;Salmão assado com quinoa;salmao-assado.jpg;1|3
+4;PRATO;Feijoada leve com couve;feijoada-leve.jpg;1|3
+5;PRATO;Penne ao molho sugo com berinjela;penne-sugo.jpg;2|3
+6;PRATO;Strogonoff de frango com arroz integral;strogonoff-frango.jpg;1
+7;PRATO;Grão-de-bico com legumes e arroz integral;grao-de-bico.jpg;2|3
+11;ACOMPANHAMENTO;Arroz integral;arroz-integral.jpg;
+12;ACOMPANHAMENTO;Arroz branco;arroz-branco.jpg;
+13;ACOMPANHAMENTO;Feijão carioca;feijao-carioca.jpg;
+14;ACOMPANHAMENTO;Legumes no vapor;legumes-vapor.jpg;
+15;ACOMPANHAMENTO;Salada verde;salada-verde.jpg;
+16;ACOMPANHAMENTO;Purê de batata;pure-batata.jpg;
+21;SOBREMESA;Mousse de chocolate zero açúcar;mousse-chocolate.jpg;
+22;SOBREMESA;Salada de frutas frescas;salada-frutas.jpg;
+23;SOBREMESA;Pudim de leite tradicional;pudim-leite.jpg;
+24;SOBREMESA;Brownie de cacau com castanhas;brownie.jpg;
+25;SOBREMESA;Iogurte natural com granola;iogurte-granola.jpg;
+26;SOBREMESA;Pudim de chia com frutas vermelhas;pudim-chia.jpg;

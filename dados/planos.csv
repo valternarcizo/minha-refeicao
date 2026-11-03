@@ -1,0 +1,5 @@
+id;nome;quantidadeRefeicoes;frequenciaEntrega;valor;ativo
+1;Plano Semanal;5;SEMANAL;129.90;true
+2;Plano Quinzenal;10;QUINZENAL;239.90;true
+3;Plano Mensal;20;SEMANAL;449.90;true
+4;Plano Degustação;3;SEMANAL;79.90;false
