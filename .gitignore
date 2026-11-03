@@ -1,0 +1,10 @@
+out/
+*.class
+fontes.txt
+# arquivos gerados pela execução (dados transacionais)
+dados/assinantes.csv
+dados/assinaturas.csv
+dados/pagamentos.csv
+.idea/
+*.iml
+.vscode/
