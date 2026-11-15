@@ -11,6 +11,8 @@ A documentação das entregas (protótipo, diagrama de classes de domínio, diag
 
 A **Entrega 4 (N2)** é a implementação em Java do caso de uso, feita a partir dos diagramas de sequência e do [Diagrama de Classes de Projeto Consolidado](https://github.com/valternarcizo/minha-refeicao/wiki/Diagrama-de-Classes-de-Projeto-Consolidado). A rastreabilidade entre os diagramas e o código está na página [N2 - Entrega 4 - Implementação do Cenário do Caso de Uso](https://github.com/valternarcizo/minha-refeicao/wiki/N2-%E2%80%90-Entrega-4-%E2%80%90-Implementa%C3%A7%C3%A3o-do-Cen%C3%A1rio-do-Caso-de-Uso).
 
+**Vídeo da Entrega 4:** [youtu.be/RAAgM18z8Sc](https://youtu.be/RAAgM18z8Sc) (explicação do código-fonte pelos diagramas UML e execução do fluxo principal e dos fluxos alternativos).
+
 ## Requisitos
 
 - **JDK 17 ou superior** (testado com JDK 17 e 21). Não há bibliotecas externas.
